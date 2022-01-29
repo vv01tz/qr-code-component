@@ -15,7 +15,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ![](https://github.com/arnovolts/qr-code-component/blob/master/assets/images/screenshot.png)
 
 The goal of this challenge was to build a QR code component, Using HTML and CSS.
-
+The project can be viewed [here](https://qr-code-component-black.vercel.app/).
 ## My process
 
 ### Built with
