@@ -12,7 +12,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Overview
 
-[](https://github.com/arnovolts/qr-code-component/blob/master/assets/images/screenshot.png)
+![](https://github.com/arnovolts/qr-code-component/blob/master/assets/images/screenshot.png)
 
 The goal of this challenge was to build a QR code component, Using HTML and CSS.
 
