@@ -29,4 +29,4 @@ The project can be viewed [here](https://qr-code-component-black.vercel.app/).
 - [CSS custom properties] (https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) -- I wanted to learn how to use css custom properties and this resource, helped me a lot. I Will keep referencing it in the future. 
 
 ## Author
-- Frontend Mentor [arnovolts](https://www.frontendmentor.io/profile/arnovolts).
+- Frontend Mentor [@vv01tz](https://www.frontendmentor.io/profile/vv01tz).
